@@ -1,6 +1,6 @@
 /* ===== إعدادات منصة الاختبارات — عدّل هنا فقط ===== */
 window.CFG = {
-  SCRIPT_URL: "",   // ← رابط Google Apps Script الذي ينتهي بـ /exec (اتركه فارغاً للتجربة المحلية)
+  SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxG4vAZnzO_exJsMXy9jCraamIYDvEIPeahqrax3yE79TkUznZs-ZrRxtBCbUepLHTS/exec",   // ← رابط Google Apps Script الذي ينتهي بـ /exec (اتركه فارغاً للتجربة المحلية)
   OFFICE: "مكتب الأولمبياد العلمي السوري بدرعا",
   ENGINEER: "المهندس أسامة الصلخدي",
   SUBJECT: "الفيزياء"   // ← اسم الاختصاص (يظهر في الترويسة): الرياضيات / المعلوماتية / ...
